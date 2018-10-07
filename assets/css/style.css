@@ -1,0 +1,26 @@
+body{
+    height: -webkit-fill-available;
+    background-color: lightskyblue;
+}
+h1{
+    text-align: center;
+    font-size: 40px;
+}
+p {
+    font-size: 20px;
+}
+
+#win{
+    color:white;
+}
+#loss{
+    color: red;
+}
+#guessLeft{
+    color: green;
+}
+img{
+    width: 1000px;
+    margin-left: 443px;
+    border: 7px solid #ecc53db0;
+}
